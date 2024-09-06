@@ -14,4 +14,10 @@ html, body {
 
 .main-header {
     background-size: cover;
+    height: 10;
+}
+
+html, .content {
+    margin: 0;
+    padding-top: 50;
 }
